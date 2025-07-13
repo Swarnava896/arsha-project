@@ -278,12 +278,13 @@ padding: 12px 70px;
 
 .contact-container{
     width: 90%;
-    grid-template-columns: auto auto ;
+  
 }
 
  .contact-container-box2{
 
-    grid-template-columns: auto ;
+    width: 90% ;
+    grid-template-columns: auto;
  }
 
 
